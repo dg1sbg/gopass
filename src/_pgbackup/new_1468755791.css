@@ -1,0 +1,135 @@
+
+
+.app-name
+{
+    line-height: 70px;
+    font-size: 14pt;
+    font-weight: 600;
+    color: #cccccc;
+}
+
+.nav
+{
+    line-height: 70px;
+}
+
+.nav a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 12pt;
+    font-weight: 500;
+}
+
+.nav a:hover
+{
+    color: #e00b1e;
+    text-decoration: none;
+}
+
+.nav a:active
+{
+    text-decoration: none;
+    color: #e00b1e;
+}
+
+.header
+{
+    height: 80px;
+    margin-top: 20px;
+}
+
+.header .container
+{
+}
+
+.start-panel-outer
+{
+    height: 330px;
+    padding: 15px;
+}
+
+a .start-panel-inner
+{
+    background-color: #cccccc;
+    height: 300px;
+    padding: 25px;
+    text-align: center;
+    color: white;
+}
+
+a .start-panel-inner p
+{
+    color: inherit;
+    font-size: 16pt;
+    font-weight: 500;
+    text-align: left;
+    line-height: 70px;
+}
+
+a .start-panel-inner .hover
+{
+    display: none;
+}
+
+a:hover .start-panel-inner img
+{
+    display: none;
+}
+
+.hover
+{
+}
+
+a:hover .start-panel-inner .hover
+{
+    display: inline;
+}
+
+a:hover .start-panel-inner
+{
+    background-color: white;
+    color: black;
+}
+
+a:hover .start-panel-inner p
+{
+    text-decoration: none;
+}
+
+.stats
+{
+}
+
+.stats .container
+{
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+.stats-heading
+{
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #757575;
+    margin-bottom: 5px;
+}
+
+.stats-middle
+{
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+}
+
+.stats-figure
+{
+    font-weight: 300;
+    font-size: 14pt;
+    margin-bottom: 0px;
+}
+
+.stats-sub
+{
+    font-size: 11pt;
+}
+
