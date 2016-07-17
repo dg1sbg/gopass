@@ -1,0 +1,201 @@
+
+
+.app-name
+{
+    line-height: 70px;
+    font-size: 14pt;
+    font-weight: 600;
+    color: #cccccc;
+}
+
+.nav
+{
+    line-height: 70px;
+}
+
+.nav a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 12pt;
+    font-weight: 500;
+}
+
+.nav a:hover
+{
+    color: #e00b1e;
+    text-decoration: none;
+}
+
+.nav a:active
+{
+    text-decoration: none;
+    color: #e00b1e;
+}
+
+.header
+{
+    height: 80px;
+    margin-top: 10px;
+}
+
+.header .container
+{
+}
+
+.start-panel-outer
+{
+    height: 330px;
+    padding: 15px;
+}
+
+a .start-panel-inner
+{
+    background-color: #cccccc;
+    height: 300px;
+    padding: 25px;
+    text-align: center;
+    color: white;
+}
+
+a .start-panel-inner p
+{
+    color: inherit;
+    font-size: 16pt;
+    font-weight: 500;
+    text-align: left;
+    line-height: 70px;
+}
+
+a .start-panel-inner .hover
+{
+    display: none;
+}
+
+a:hover .start-panel-inner img
+{
+    display: none;
+}
+
+.hover
+{
+}
+
+a:hover .start-panel-inner .hover
+{
+    display: inline;
+}
+
+a:hover .start-panel-inner
+{
+    background-color: white;
+    color: black;
+}
+
+a:hover .start-panel-inner p
+{
+    text-decoration: none;
+}
+
+.stats
+{
+    margin-bottom: 15px;
+}
+
+.stats-heading
+{
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #757575;
+    margin-bottom: 5px;
+}
+
+.stats-middle
+{
+    border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+}
+
+.stats-figure
+{
+    font-weight: 400;
+    font-size: 14pt;
+    margin-bottom: 0px;
+}
+
+.stats-sub
+{
+    font-size: 11pt;
+}
+
+.stats-col
+{
+    border: 1px solid #eee;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.breadcrumb-arrow
+{
+    margin: 7px 5px 5px;
+}
+
+.page-heading
+{
+    font-size: 16pt;
+    font-weight: 500;
+    color: #e00b1e;
+}
+
+.page-panel
+{
+    padding: 15px;
+    margin-top: 15px;
+}
+
+a .page-panel
+{
+    background-color: #cccccc;
+    color: white;
+}
+
+a .page-panel .hover
+{
+    display: none;
+}
+
+.page-panel span
+{
+    margin-left: 10px;
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover .page-panel
+{
+    color: black;
+    background: white;
+    text-decoration: none;
+}
+
+a:hover .page-panel span
+{
+    text-decoration: none;
+    color: inherit;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:hover
+{
+    text-decoration: none;
+}
+
+a:hover .page-panel .hover
+{
+    display: inline;
+}
+

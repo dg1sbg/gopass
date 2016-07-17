@@ -1,0 +1,58 @@
+
+
+.app-name
+{
+    line-height: 70px;
+    font-size: 14pt;
+    font-weight: 600;
+    color: #aaaaaa;
+}
+
+.nav
+{
+    line-height: 70px;
+}
+
+.nav a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 12pt;
+    font-weight: 500;
+}
+
+.nav a:hover
+{
+    color: #e00b1e;
+    text-decoration: none;
+}
+
+.nav a:active
+{
+    text-decoration: none;
+    color: #e00b1e;
+}
+
+.header
+{
+    height: 100px;
+    margin-top: 20px;
+}
+
+.header .container
+{
+    border-bottom: 2px solid #eeeeee;
+}
+
+.start-panel-outer
+{
+    height: 320px;
+    padding: 10px;
+}
+
+.start-panel-inner
+{
+    background-color: #aaaaaa;
+    height: 300px;
+}
+
